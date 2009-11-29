@@ -1,0 +1,17 @@
+This repository was created so that contributors to the glz_custom_fields plugin can submit bug reports and feature requests. They can also vote for features and therefore prioritize work. After all, it's your plugin guys : ).
+
+h2. Get more from your plugin
+
+1. "TXP forum thread":http://forum.textpattern.com/viewtopic.php?id=23996
+
+Best place to talk to other glz_custom_fields users is the Textpattern forum. There is "a long running thread for the plugin":http://forum.textpattern.com/viewtopic.php?id=23996, this is the best place to get quick answers. I'm not always around and it can be a few days (sometimes even weeks!) before I reply to your direct e-mails and/or forum posts, but there are other great TXP and glz_custom_fields power users which help out very very quickly. That's one of the best TXP features, the community ; ).
+
+2. "Google Group":http://groups.google.com/group/glz_custom_fields
+
+This is a private group so only people that contributed towards the plugin will be given access. This group is used only for information about various revisions and direct download links. If you've misplaced your glz_custom_fields copy or are looking for a particular revision, this is the place to visit. Also, there is detailed information on new features and improvements for every release, installation instructions and gotchas.
+
+You have to sign up to the group, it's not an automatic process.
+
+3. "Plugin wiki":http://github.com/glz_custom_fields_public/wikis
+
+4. "Bugs & Feature requests":http://github.com/glz_custom_fields_public/issues
