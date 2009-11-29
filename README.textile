@@ -10,7 +10,7 @@ h2. "Google Group":http://groups.google.com/group/glz_custom_fields
 
 This is a private group so only people that contributed towards the plugin will be given access. This group is used only for information about various revisions and direct download links. If you've misplaced your glz_custom_fields copy or are looking for a particular revision, this is the place to visit. Also, there is detailed information on new features and improvements for every release, installation instructions and gotchas.
 
-You have to sign up to the group, it's not an automatic process.
+"You have to sign up to the group, it's not an automatic process.":http://groups.google.com/group/glz_custom_fields/subscribe?note=1
 
 h2. "Plugin wiki":http://wiki.github.com/gerhard/glz_custom_fields_public
 
